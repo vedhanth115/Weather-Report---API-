@@ -16,8 +16,14 @@ Ahmedabad, Bangalore, Mumbai, New Delhi, Gurgaon, Hyderabad, Noida, Kolkata, Che
 - **Power Query (M language)**
 - **DAX for dynamic measures**
 - **Scheduled refresh via Power BI Service**
+- **Figma**
 
 ---
+### 🎨 Figma for Dashboard Design
+
+Before building the Power BI dashboard, a visual Design was created using **Figma** to plan layout, color schemes, iconography, and user experience. This helped ensure a clean, modern design aligned with desktop responsiveness.
+Figma allowed rapid iteration & implementation in Power BI, ensuring the final dashboard was both functional and visually polished.
+
 
 ## 🛠️ Step-by-Step Implementation
 
